@@ -23,6 +23,17 @@
 &lt;p&gt;abcdefghijklmnop&lt;/p&gt;</description>
     </item>
     <item>
+      <title>LLM Zoomcamp Diaries - Mod 2</title>
+      <link>https://examplesite.com/posts/llm-zoomcamp-diaries---mod-2/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/posts/llm-zoomcamp-diaries---mod-2/</guid>
+      <description>&lt;h2 id=&#34;this-mods-all-about-&#34;&gt;This mods all about &amp;hellip;&lt;/h2&gt;
+&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/images/Pasted%20image%2020250605222623.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;another-section&#34;&gt;Another section&amp;hellip;&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!note] be wary!&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
       <title></title>
       <link>https://examplesite.com/posts/neovim-install-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
